@@ -1,3 +1,4 @@
+import styles from "./Game.module.css";
 import { useEffect, useMemo, useState } from "react";
 
 const ROWS = 10;
